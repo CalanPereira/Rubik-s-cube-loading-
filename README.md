@@ -10,7 +10,7 @@
 #Design :
 
          Trying to make the colors of the rubiks cube floroscent or luminous(neon colors).
-         give some shadow ellects
+         give some shadow effects
          give some 3d rotations
          give some hover effects
          
